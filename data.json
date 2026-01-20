@@ -1,0 +1,16 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "nome": "Espada Flamejante",
+      "raridade": "Raro",
+      "descricao": "Aplica queimadura ao atacar"
+    },
+    {
+      "id": "2",
+      "nome": "Armadura de Ouro",
+      "raridade": "Comum",
+      "descricao": "Gera ouro por turno"
+    }
+  ]
+}
